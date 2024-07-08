@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 BOT_TOKEN = '7025000933:AAFMlQnEjLeUw_ABPvuEaTYtuxSIeB0gTD4'
-WEBAPP_URL = os.getenv('WEBAPP_URL')
+WEBAPP_URL = 'brobot1-production.up.railway.app'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
