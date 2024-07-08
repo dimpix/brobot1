@@ -1,5 +1,6 @@
 {
-  "url": "brobot1-production.up.railway.app",
-  "name": "TON Wallet Checker",
-  "iconUrl": "brobot1-production.up.railway.app/icon.png"
-}
+    "url": "https://brobot1-production.up.railway.app",
+    "name": "TON Wallet Checker",
+    "iconUrl": "https://your-domain.com/icon.png"
+  }
+  
